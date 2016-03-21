@@ -1,0 +1,5 @@
+= MVC 1.0 Demo Application
+
+MVC 1.0 Demo Application. For mor details follow the blog post.
+
+http://istanbul-jug.org/2016/03/shipping-mvc-1-0-into-glassfish-5/
